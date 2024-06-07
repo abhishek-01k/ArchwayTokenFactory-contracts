@@ -1,0 +1,13 @@
+{
+  "archway": {
+    "archway-factory-token": {
+      "code_id": 604,
+      "addresses": {
+        "default": ""
+      }, 
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
